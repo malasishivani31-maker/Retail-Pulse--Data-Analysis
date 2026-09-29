@@ -5,7 +5,7 @@ This interactive Power BI dashboard provides a deep-dive analysis of retail sale
 
 ---
 
-## 🎬 Live Dashboard Preview
+## Dashboard Preview
 
 <img width="1435" height="798" alt="Screenshot 2026-09-27 122601" src="https://github.com/user-attachments/assets/63192bc6-094a-49e5-8003-95dba29f0f04" />
 
